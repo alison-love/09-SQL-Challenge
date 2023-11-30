@@ -6,11 +6,13 @@ Overview
 
 This project involves a comprehensive analysis of Pewlett Hackard's employee database from the 1980s and 1990s. The challenge encompasses data modeling, data engineering, and data analysis based on six CSV files.
 
-Contents
 
-Data Modeling: Entity Relationship Diagram (ERD) to visualize database structure.
-Data Engineering: Table schemas for CSV file import, including data types, keys, and constraints.
-Data Analysis: SQL queries to extract meaningful insights from the data.
+Project Components
+
+- Entity Relationship Diagram: Visual representation of the database structure.
+- Table Schemas: Definitions for structuring the CSV data within a SQL database, including specifications for data types, primary and foreign keys, and constraints.
+- Data Queries: SQL queries employed to analyze the database, providing insights into employee demographics, hiring trends, and departmental structures.
+- 
 
 Technologies Used
 
@@ -18,11 +20,14 @@ Visual Studio Code
 PostgreSQL extension for VS Code (published by Microsoft)
 ERD Editor extension for VS Code (published by dineug)
 
+
 Key Findings
 
-There were an excessive amount of employees with the name first name Hercules and last initial B in the 1980s and 1990s.
+There were a lot of employees named Hercules B. in the 80s and 90s.
+
 
 How to Use
 
 Clone this repository.
-Open files with VS Code and execute them accordingly.
+Open files with VS Code and execute the first line of code to create the database.
+Execute subsequent code accordingly to create schemas and complete queries.
