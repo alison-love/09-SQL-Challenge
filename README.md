@@ -20,7 +20,7 @@ ERD Editor extension for VS Code (published by dineug)
 
 Key Findings
 
-There were 20 employees with the name first name Hercules and last initial B in the 1980s and 1990s.
+There were an excessive amount of employees with the name first name Hercules and last initial B in the 1980s and 1990s.
 
 How to Use
 
